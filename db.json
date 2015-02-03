@@ -1,0 +1,19 @@
+[
+
+//Cheonan route 1 way 1
+{"station_latitude":36.79051255938356,"station_longitude":127.11670571250683,"station_name":"쌍용고입구","country_srl":1,"id":1,"route_srl":1,"station_srl":1,"way_srl":1},
+{"station_latitude":36.79520471744649,"station_longitude":127.11479125873149,"station_name":"월봉대우A","country_srl":1,"id":2,"route_srl":1,"station_srl":2,"way_srl":1},
+{"station_latitude":36.798592555369275,"station_longitude":127.11514927133419,"station_name":"월봉벽산A","country_srl":1,"id":3,"route_srl":1,"station_srl":3,"way_srl":1},
+{"station_latitude":36.80183714989931,"station_longitude":127.11453782816889,"station_name":"불당 한성A","country_srl":1,"id":4,"route_srl":1,"station_srl":4,"way_srl":1},
+{"station_latitude":36.80216816714903,"station_longitude":127.10942412542681,"station_name":"월봉고등학교","country_srl":1,"id":5,"route_srl":1,"station_srl":5,"way_srl":1},
+{"station_latitude":36.801495,"station_longitude":127.104141,"station_name":"갤러리아백화점","country_srl":1,"id":6,"route_srl":1,"station_srl":6,"way_srl":1},
+{"station_latitude":36.797163,"station_longitude":127.100359,"station_name":"펜타포트","country_srl":1,"id":7,"route_srl":1,"station_srl":7,"way_srl":1},
+{"station_latitude":36.796265,"station_longitude":127.10214,"station_name":"아산패션1광장","country_srl":1,"id":8,"route_srl":1,"station_srl":8,"way_srl":1},
+{"station_latitude":36.797899820869,"station_longitude":127.10918163034225,"station_name":"충남북부상공회의소","country_srl":1,"id":9,"route_srl":1,"station_srl":9,"way_srl":1},
+{"station_latitude":36.80279422074784,"station_longitude":127.1125558616927,"station_name":"불당한성A","country_srl":1,"id":10,"route_srl":1,"station_srl":10,"way_srl":1},
+{"station_latitude":36.80555984739637,"station_longitude":127.11338355075031,"station_name":"불당대동다숲","country_srl":1,"id":11,"route_srl":1,"station_srl":11,"way_srl":1},
+{"station_latitude":36.80778497844565,"station_longitude":127.11402559238209,"station_name":"불당동일하이빌","country_srl":1,"id":12,"route_srl":1,"station_srl":12,"way_srl":1},
+{"station_latitude":36.81390982473249,"station_longitude":127.11589283335526,"station_name":"천안시청 서북구보건소","country_srl":1,"id":13,"route_srl":1,"station_srl":13,"way_srl":1},
+{"station_latitude":36.81632424179095,"station_longitude":127.11460872282024,"station_name":"천안시청","country_srl":1,"id":14,"route_srl":1,"station_srl":14,"way_srl":1}
+
+]
