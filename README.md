@@ -29,7 +29,13 @@ station_srl : 정류장 번호입니다. 방향에 따라 시작 지점에서 �
 
 DB 정보의 버전값이 있는 파일입니다. 클라이언트가 가지고 있는 값과 비교해서 다를경우 최신의 정보를 받는걸 요청합니다.
 
-## 2. 참여하기
+## 2. 브랜치
+
+[master](https://github.com/jeonghunn/wbus_db/tree/master) : 현재 적용된 가장 최신의 정보입니다.
+[candidate](https://github.com/jeonghunn/wbus_db/tree/candidate) : 적용될 수 있는 정류장 정보의 후보 버전입니다.
+[gh-pages](https://github.com/jeonghunn/wbus_db/tree/gh-pages) : 현재 적용된 가장 최신의 정보인건 master와 동일하나 실제 기기에서 받아오는 정보는 이 브랜치로부터 받아옵니다.
+
+## 3. 참여하기
 
 버스 정류장 DB 정보를 자신이 직접  추가하고, 개선하고 기여할 수 있습니다. 이는 보다 나은 사용자 경험을 제공합니다.
 자신의 저장소로 fork한 뒤에 Pull request를 하여 변경한 사항 적용을 요청할 수 있습니다.
@@ -41,3 +47,5 @@ DB 정보의 버전값이 있는 파일입니다. 클라이언트가 가지고 �
 또는 Github 계정이 없거나, 어렵다면 wearbus@gmail.com으로 변경사항을 이메일로 보내주세요. 
 
 감사합니다.
+
+문서 버전 : 1.1.0.2
