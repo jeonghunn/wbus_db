@@ -1,5 +1,5 @@
 # WBUS DB
-WBUS DB는 WBUS(http://play.google.com/store/apps/details?id=com.tarks.transport)에 사용되는 버스 DB 정보 저장소입니다.
+WBUS DB는 [WBUS](http://play.google.com/store/apps/details?id=com.tarks.transport)에 사용되는 버스 DB 정보 저장소입니다.
 
 
 ##1. 구성
